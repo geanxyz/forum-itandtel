@@ -5,7 +5,7 @@ Colours and backgrounds for common.css
 
 html, body {
 	color: #536482;
-	background-color: #F5F7FA;
+	background-color: #ffffff;
 }
 
 h1 {
@@ -81,7 +81,7 @@ a:hover { color: #D31141; }
 /* Round cornered boxes and backgrounds
 ---------------------------------------- */
 .wrap {
-	background-color: #FFF;
+	background-color: #f0f0f0;
 	border-color: #E6E9ED;
 }
 
@@ -90,19 +90,21 @@ a:hover { color: #D31141; }
 }
 
 .headerbar, .forumbg {
-        background-image: -ms-linear-gradient(top, #E5E3EB 0%, #CFCDD4 100%);
-        background-image: -moz-linear-gradient(top, #E5E3EB 0%, #CFCDD4 100%);
-        background-image: -o-linear-gradient(top, #E5E3EB 0%, #CFCDD4 100%);
-        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #E5E3EB), color-stop(100, #CFCDD4));
-        background-image: -webkit-linear-gradient(top, #E5E3EB 0%, #CFCDD4 100%);
-        background-image: linear-gradient(to bottom, #E5E3EB 0%, #CFCDD4 100%);
+	background-image: -ms-linear-gradient(top, #F5F3FA 0%, #D7D6DE 100%);
+	background-image: -moz-linear-gradient(top, #F5F3FA 0%, #D7D6DE 100%);
+	background-image: -o-linear-gradient(top, #F5F3FA 0%, #D7D6DE 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F5F3FA), color-stop(100, #D7D6DE));
+	background-image: -webkit-linear-gradient(top, #F5F3FA 0%, #D7D6DE 100%);
+	background-image: linear-gradient(to bottom, #F5F3FA 0%, #D7D6DE 100%);
 }
 
 .forabg {
-	background-color: #0076B1;
-	background-image: -webkit-linear-gradient(top, #6ACEFF 0%, #12A3EB 2px, #0076B1 92px, #0076B1 100%);
-	background-image: linear-gradient(to bottom, #6ACEFF 0%,#12A3EB 2px,#0076B1 92px,#0076B1 100%);
-	background-repeat: repeat-x;
+	background-image: -ms-linear-gradient(top, #E0DEE6 0%, #C2C0C7 100%);
+	background-image: -moz-linear-gradient(top, #E0DEE6 0%, #C2C0C7 100%);
+	background-image: -o-linear-gradient(top, #E0DEE6 0%, #C2C0C7 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #E0DEE6), color-stop(100, #C2C0C7));
+	background-image: -webkit-linear-gradient(top, #E0DEE6 0%, #C2C0C7 100%);
+	background-image: linear-gradient(to bottom, #E0DEE6 0%, #C2C0C7 100%);
 }
 
 .navbar {
@@ -322,10 +324,7 @@ Colours and backgrounds for content.css
 -------------------------------------------------------------- */
 
 ul.forums {
-	background-color: #EEF5F9; /* Old browsers */ /* FF3.6+ */
-	background-image: -webkit-linear-gradient(top, #D2E0EB 0%, #EEF5F9 100%);
-	background-image: linear-gradient(to bottom, #D2E0EB 0%,#EEF5F9 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D2E0EB', endColorstr='#EEF5F9',GradientType=0 ); /* IE6-9 */
+	background-color: #f0f0f0;
 }
 
 ul.topiclist li {
