@@ -32,7 +32,7 @@ Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
 a { color: #105289; }
-a:hover { color: #D31141; }
+a:hover { color: #3f3f3f; }
 
 /* Links on gradient backgrounds */
 .forumbg .header a, .forabg .header a, th a {
@@ -350,11 +350,13 @@ li.row strong {
 }
 
 li.row:hover {
-	background-color: #F6F4D0;
+	/*background-color: #F6F4D0;*/
+	background-color: #FFF;
 }
 
 li.row:hover dd {
-	border-left-color: #CCCCCC;
+	/*border-left-color: #CCCCCC;*/
+	border-left-color: #c3c3c3;
 }
 
 .rtl li.row:hover dd {
