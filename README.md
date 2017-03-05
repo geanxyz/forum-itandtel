@@ -9,6 +9,6 @@ You add the mysql settings as environment variables:
   MYSQL_USER
   MYSQL_PASSWORD
 
-##For the First Time Usage:
+###For the First Time Usage:
 use the /no-install directory - this directory will be removed in one of the next git pushs!
 
