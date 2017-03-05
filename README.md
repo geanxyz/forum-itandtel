@@ -12,3 +12,4 @@ You add the mysql settings as environment variables:
 ###For the First Time Usage:
 use the /no-install directory - this directory will be removed in one of the next git pushs!
 
+ 
