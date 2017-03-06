@@ -9,16 +9,16 @@ html, body {
 }
 
 h1 {
-	color: #FFFFFF;
+	color: #0093d0;
 }
 
 h2 {
-	color: #28313F;
+	color: #0093d0;
 }
 
 h3 {
 	border-bottom-color: #CCCCCC;
-	color: #115098;
+	color: #0093d0;
 }
 
 hr {
@@ -31,16 +31,16 @@ hr {
 Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
-a { color: #105289; }
-a:hover { color: #3f3f3f; }
+a { color: #0093d0; }
+a:hover { color: #0093d0; }
 
 /* Links on gradient backgrounds */
 .forumbg .header a, .forabg .header a, th a {
-	color: #FFFFFF;
+	color: #0093d0;
 }
 
 .forumbg .header a:hover, .forabg .header a:hover, th a:hover {
-	color: #A8D8FF;
+	color: #0093d0;
 }
 
 /* Notification mark read link */
@@ -81,12 +81,12 @@ a:hover { color: #3f3f3f; }
 /* Round cornered boxes and backgrounds
 ---------------------------------------- */
 .wrap {
-	background-color: #f0f0f0;
+	background-color: #c9cacc;
 	border-color: #E6E9ED;
 }
 
 .headerbar {
-	color: #FFFFFF;
+	color: #0093d0;
 }
 
 .headerbar, .forumbg {
@@ -126,7 +126,7 @@ a:hover { color: #3f3f3f; }
 
 .bg1 {
 	/*background-color: #ECF3F7;*/
-	background-color: #f0f0f0;
+	background-color: #c9cacc;
 }
 
 table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
@@ -135,7 +135,7 @@ table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
 
 .bg2 {
 	/*background-color: #E1EBF2;*/
-	background-color: #f0f0f0;
+	background-color: #c9cacc;
 }
 
 table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
@@ -144,7 +144,7 @@ table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
 
 .bg3	{
 	/*background-color: #CADCEB;*/
-	background-color: #f0f0f0;
+	background-color: #c9cacc;
 }
 
 .ucprowbg {
@@ -332,8 +332,6 @@ ul.forums {
 
 ul.topiclist li {
 	color: #4C5D77;
-	/* gea added */
-	background-color: #efefef;
 }
 
 ul.topiclist dd {
@@ -347,7 +345,7 @@ ul.topiclist dd {
 
 li.row {
 	border-top-color:  #FFFFFF;
-	border-bottom-color: #00608F;
+	/*border-bottom-color: #00608F;*/
 }
 
 li.row strong {
@@ -370,7 +368,7 @@ li.row:hover dd {
 }
 
 li.header dt, li.header dd {
-	color: #FFFFFF;
+	color: #0093d0;
 }
 
 /* Post body styles
