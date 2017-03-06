@@ -1,0 +1,4 @@
+AuthUserFile /opt/app-root/src/.htpasswd
+AuthName "currently in development"
+AuthType Basic
+require valid-user
