@@ -346,6 +346,7 @@ ul.topiclist dd {
 li.row {
 	border-top-color:  #FFFFFF;
 	/*border-bottom-color: #00608F;*/
+	background-color: #eaeaea;
 }
 
 li.row strong {
