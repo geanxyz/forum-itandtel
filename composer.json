@@ -48,7 +48,7 @@
 		"symfony/twig-bridge": "^2.8",
 		"symfony/yaml": "^2.8",
 		"twig/twig": "^1.0,<1.25",
-		"pear/mail": "1.*"
+		"smalot/sendmail-smtp": "0.2.0"
 	},
 	"require-dev": {
 		"fabpot/goutte": "~2.0",
