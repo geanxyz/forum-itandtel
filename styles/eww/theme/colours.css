@@ -135,7 +135,8 @@ table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
 
 .bg2 {
 	/*background-color: #E1EBF2;*/
-	background-color: #c9cacc;
+	/*background-color: #c9cacc;*/
+	background-color: #eaeaea;
 }
 
 table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
